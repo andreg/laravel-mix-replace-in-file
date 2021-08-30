@@ -1,0 +1,28 @@
+{
+	"name": "laravel-mix-replace-in-file",
+	"version": "0.1.0",
+	"description": "A simple Laravel Mix extension to allow in-file string replacements.",
+	"main": "index.js",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/andreg/laravel-mix-replace-in-file.git"
+	},
+	"keywords": [
+		"laravel",
+		"laravel mix",
+		"mix",
+		"string-replace",
+		"replace-in-file",
+		"replace"
+	],
+	"author": "Andrea Gandino",
+	"license": "GPL-2.0+",
+	"bugs": {
+		"url": "https://github.com/andreg/laravel-mix-replace-in-file/issues"
+	},
+	"homepage": "https://github.com/andreg/laravel-mix-replace-in-file#readme",
+	"devDependencies": {
+		"laravel-mix": "^6.0.29"
+	}
+}
