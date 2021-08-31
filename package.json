@@ -16,7 +16,7 @@
 		"replace-in-file",
 		"replace"
 	],
-	"author": "Andrea Gandino",
+	"author": "Andrea Gandino <andreagandino@gmail.com> (https://andreagandino.com/)",
 	"license": "GPL-2.0+",
 	"bugs": {
 		"url": "https://github.com/andreg/laravel-mix-replace-in-file/issues"
